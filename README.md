@@ -93,6 +93,10 @@ So finally, our state is:
 * The search text the user has entered
 * The value of the checkbox
 
+A fast recap of the State and Props flow in the application:
+
+![react-flow](https://user-images.githubusercontent.com/585672/36427814-764a70ee-164e-11e8-9a20-ac453e3809b3.png)
+
 > Wahouuu! You're cute, let's jump to Step 4
 
 ### Step 4: Identify Where Your State Should Live
